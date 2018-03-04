@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "Hiveway fix",
+    "description": "A chrome extension to fix Hiveway",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
