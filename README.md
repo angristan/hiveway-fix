@@ -4,6 +4,10 @@ A Chrome extension that replaces "hiveway" with "Mastodon" on every web page.
 
 ![wth](https://i.imgur.com/J6Av8aw.png)
 
+## Installation
+
+[Chrome Web Store link](https://chrome.google.com/webstore/detail/hiveway-fix/fkhimnihclpdpfhgnjbahiokfidiomhb)
+
 ## More on Hiveway
 
 [Hiveway](https://web.archive.org/web/https://github.com/hiveway) is just another blockchain scam. They the Mastodon source code, ripped of every mention of it, and called it "The first fully-autonomous, decentralized social network". ffs.
